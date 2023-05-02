@@ -4,5 +4,10 @@ emails.tar.gz
 data.xlsx
 data.csv
 
+splitted/*
+splitted/
+
+
+
 # Ignore CSV files in the root directory
 /*.csv
